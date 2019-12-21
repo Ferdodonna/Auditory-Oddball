@@ -5,3 +5,6 @@ Work Log:
   
  20.12.19:
   - implemented Execute class
+  
+ 21.12.19:
+  - removed replicate method as there is already a built in functionality for that
