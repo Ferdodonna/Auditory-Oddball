@@ -10,3 +10,7 @@ Work Log:
   - removed replicate method as there is already a built in functionality for that
   - changed some implementation details as I still think like a functional programmer
   - started building the outlines of the GUI
+  
+ 22.12.19: 
+  - added Gui class for, you guessed it
+  - implemented creation of Stimuli for Gui class
