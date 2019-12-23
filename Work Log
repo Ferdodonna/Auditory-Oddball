@@ -14,3 +14,6 @@ Work Log:
  22.12.19: 
   - added Gui class for, you guessed it
   - implemented creation of Stimuli for Gui class
+
+23.12.19
+  - added some more functionality to Gui class
