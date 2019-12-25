@@ -17,3 +17,7 @@ Work Log:
 
 23.12.19
   - added some more functionality to Gui class
+  
+25.12.19: 
+  - rewrote whole Gui, first Gui in python so I had some awkward structure I couldn't stand 
+  - reworked some functionality in the Sequence class
