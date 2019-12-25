@@ -20,4 +20,5 @@ Work Log:
   
 25.12.19: 
   - rewrote whole Gui, first Gui in python so I had some awkward structure I couldn't stand 
+    only need to implement the networking now
   - reworked some functionality in the Sequence class
