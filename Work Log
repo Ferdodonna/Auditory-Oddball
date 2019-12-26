@@ -22,3 +22,6 @@ Work Log:
   - rewrote whole Gui, first Gui in python so I had some awkward structure I couldn't stand 
   - reworked some functionality in the Sequence class
   - only need to implement networking via LSL and brain visualizer now & fix some gui bugs
+  
+26.12.19
+  - fixed some bugs
