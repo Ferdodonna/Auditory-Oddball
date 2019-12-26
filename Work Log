@@ -25,3 +25,10 @@ Work Log:
   
 26.12.19
   - fixed some bugs
+  - started the networking part, things I need to know:
+    * brain visualizer stream inlet and LSL functionality (can do that myself)
+    * in what structure should I sent the markers, there are 3 marker types:
+       > pre pre-stimulus-inteval (psi) marker
+       > pre stimulus marker
+       > post stimulus marker
+      (will ask you guys that)
